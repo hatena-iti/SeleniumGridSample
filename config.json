@@ -1,0 +1,22 @@
+{
+	"desired" : [
+		{
+			"name" : "parallel IE",
+			"browserName" : "internet explorer"
+		}
+		,
+		{
+			"name" : "parallel Chrome",
+			"browserName" : "chrome",
+			"chromeOptions" : 
+				{
+					"args" : ["--test-type"]
+				}
+		}
+		,
+		{
+			"name" : "parallel FireFox",
+			"browserName" : "firefox"
+		}
+	]
+}

@@ -1,0 +1,35 @@
+{
+	"name": "paralleltest",
+	"description": "Browser Parallel Test",
+	"keywords": [
+		"testing",
+		"webdriverjs",
+		"selenium"
+	],
+	"version": "0.0.1",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/***.git"
+	},
+	"bugs": {
+		"url": "https://github.com/***/issues"
+	},
+	"licenses": [
+		{
+			"type": "Apache",
+			"url": "http://www.apache.org/licenses/LICENSE-2.0.html"
+		}
+	],
+	"engines": [
+		"node"
+	],
+	"directories": {
+		"lib": "./lib"
+	},
+	"dependencies": {
+		"wd-parallel": "0.0.2"
+	},
+	"scripts": {
+		"start" : "node parallel.js"
+	}
+}

@@ -1,0 +1,1 @@
+java -jar seleniumServer/selenium-server-standalone-2.43.1.jar -role node -nodeConfig node.json -Dwebdriver.ie.driver=./webdriver/IEDriverServer32.exe -Dwebdriver.chrome.driver=./webdriver/chromedriver.exe
