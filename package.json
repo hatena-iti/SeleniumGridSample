@@ -9,10 +9,10 @@
 	"version": "0.0.1",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/***.git"
+		"url": "https://github.com/hatena-iti/SeleniumGridSample.git"
 	},
 	"bugs": {
-		"url": "https://github.com/***/issues"
+		"url": "https://github.com/hatena-iti/SeleniumGridSample/issues"
 	},
 	"licenses": [
 		{
